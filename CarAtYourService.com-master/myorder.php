@@ -15,6 +15,7 @@ $rs = mysqli_fetch_array($r);
 <link rel="stylesheet" href="carrental.css">
 </head>
 <body>
+	<!-- pull request -->
 <div class="navbar">
   <a href="carrental.php">Home</a>
   <a href="tarrif.php">Tarrifs</a>
